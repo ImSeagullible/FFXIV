@@ -20,7 +20,8 @@ materiaEight = [2034,2070,976,1015]
 materiaNine = [2090,2126,977,1013]
 materiaTen = [2144,2182,979,1012]
 # Dialog
-confirmButton = [1213,1348,784,798]
+#confirmButton = [1213,1348,784,798] # This version allowed for overlap of No after clicking Confirm
+confirmButton = [1228,1265,784,795]
 okButton = [1184,1268,796,809]
 yesButton = [1182,1265,783,794]
 
@@ -39,15 +40,26 @@ def alert(x):
     pyautogui.alert(x)
 def leftClick():
     randomNumber = random.randint(1,6)
-    if randomNumber == 3:
-        pyautogui.leftClick()
-        pyautogui.leftClick()
-        pyautogui.leftClick()
+    sleepTimer = 0
+    if randomNumber < 4:
+        sleepTimer = 0.1
     else:
-        pyautogui.leftClick()
-        pyautogui.leftClick()
+        sleepTimer = 0.1
+
+    if randomNumber == 3:
+        pyautogui.mouseDown(button='left')
+        time.sleep(sleepTimer)
+        pyautogui.mouseUp(button='left')
+
+        pyautogui.mouseDown(button='left')
+        time.sleep(sleepTimer)
+        pyautogui.mouseUp(button='left')
+    else:
+        pyautogui.mouseDown(button='left')
+        time.sleep(sleepTimer)
+        pyautogui.mouseUp(button='left')
 def rightClick():
-    pyautogui.rightClick()
+    pyautogui.click(clicks=1, button='right')
 def MoveToMateria(x):
     if x == 1:
         moveToMateriaOne()
