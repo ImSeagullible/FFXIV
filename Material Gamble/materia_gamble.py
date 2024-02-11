@@ -36,28 +36,27 @@ materiaCounter = 1
 for x in inventoryMateriaCounts:
     amountOfMateria = x
     if materiaCounter > 10:
-        break;
+        pass;
     else:
         while amountOfMateria >= 5:
-            vars.MoveToMateria(materiaCounter)
+            vars.MoveToMateria(materiaCounter) # Mouseover Materia
             vars.randomSleep(0,0)
-            vars.rightClick()
+            vars.rightClick() # Right Click Materia to bring up Menu
             vars.randomSleep(1,1)
-            vars.leftClick()
-            vars.leftClick()
+            vars.leftClick() # Left Click Materia "Transmute" from Menu
             vars.randomSleep(1,2)
-            vars.moveToOkButton()
+            vars.moveToOkButton() # Move to OK Button
             vars.randomSleep(0,0)
-            vars.leftClick()
+            vars.leftClick() # Left Click OK Button
             vars.randomSleep(1, 2)
-            vars.moveToConfirmButton()
+            vars.moveToConfirmButton() # Move to Confirm Button
             vars.randomSleep(0,0)
-            vars.leftClick()
+            vars.leftClick() # Left Click OK Button
             vars.randomSleep(1, 2)
-            vars.moveToYesButton()
+            vars.moveToYesButton() # Move to Yes Button
             vars.randomSleep(0,0)
-            vars.leftClick()
-            vars.leftClick()
+            vars.leftClick() # Left Click Yes Button
+            vars.leftClick() # Left Click Yes Button
             amountOfMateria -= 5
             vars.randomSleep(1, 3)
     materiaCounter += 1
