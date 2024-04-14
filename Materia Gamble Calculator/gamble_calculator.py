@@ -149,14 +149,12 @@ def populate_from_api():
                         ixtxt = lbltxt + " IX"
 
                         low = getLowestPrice('Ultros', int(itemIds.get(ixtxt)))
-                        counter += 1
                         # Set the value of the IX Entry
                         entries[0].delete(0, 'end')
                         entries[0].insert(0, str(low))
 
                         xtxt = lbltxt + " X"
                         low = getLowestPrice('Ultros', int(itemIds.get(xtxt)))
-                        counter += 1
                         # Set the value of the X Entry
                         entries[1].delete(0, 'end')
                         entries[1].insert(0, str(low))
