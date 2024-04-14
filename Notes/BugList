@@ -1,2 +1,4 @@
 When clicking Confirm, I potentially double/triple click the right side of the button to click No.
 Maybe look into a way to fix that
+
+Clicks don't seem to work anymore in materia_gamble
