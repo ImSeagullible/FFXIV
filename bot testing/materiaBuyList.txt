@@ -1,0 +1,8 @@
+#ItemName,ItemID,Quality,Price,QtyLimit
+Piety Materia IX,33917,220,false,50
+Heavens' Eye Materia IX,33918,220,false,50
+Savage Aim Materia IX,33919,220,false,50
+Savage Might Materia IX,33920,220,false,50
+Battledance Materia IX,33921,220,false,50
+Quickarm Materia IX,33928,220,false,50
+Quicktongue Materia IX,33929,220,false,50

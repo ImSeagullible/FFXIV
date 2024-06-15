@@ -1,14 +1,14 @@
 #ItemName,ItemID,Quality,Price
-Piety Materia IX,33917,NQ,320
-Heavens' Eye Materia IX,33918,NQ,320
-Savage Aim Materia IX,33919,NQ,320
-Savage Might Materia IX,33920,NQ,320
-Battledance Materia IX,33921,NQ,320
-Quickarm Materia IX,33928,NQ,320
-Quicktongue Materia IX,33929,NQ,320
-Piety Materia X,33930,NQ,400
-Battledance Materia X,33934,NQ,400
-Gatherer's Grasp Materia X,33937,NQ,400
-Craftsman's Cunning Materia X,33939,NQ,400
-Quickarm Materia X,33941,NQ,400
-Quicktongue Materia X,33942,NQ,400
+Piety Materia IX,33917,NQ,220
+Heavens' Eye Materia IX,33918,NQ,220
+Savage Aim Materia IX,33919,NQ,220
+Savage Might Materia IX,33920,NQ,220
+Battledance Materia IX,33921,NQ,220
+Quickarm Materia IX,33928,NQ,220
+Quicktongue Materia IX,33929,NQ,220
+Piety Materia X,33930,NQ,220
+Battledance Materia X,33934,NQ,220
+Gatherer's Grasp Materia X,33937,NQ,220
+Craftsman's Cunning Materia X,33939,NQ,220
+Quickarm Materia X,33941,NQ,220
+Quicktongue Materia X,33942,NQ,220

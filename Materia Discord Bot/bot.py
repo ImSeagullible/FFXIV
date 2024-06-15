@@ -114,10 +114,13 @@ def run_discord_bot():
     client = discord.Client(intents=discord.Intents.all())
     @client.event
     async def on_ready():
-        generalChannel = client.get_channel(1140412198464802868)
-        materiaBuyChannel = client.get_channel(1140415245916065854)
-        await materiaBuyChannel.purge()
-        await MateriaSearchByWorld(materiaBuyChannel)
+        # Materia
+        materia_sell_primal = client.get_channel(1244017021021196359)
+        materia_sell_aether = client.get_channel(1244017050515669023)
+        materia_sell_crystal = client.get_channel(1244017070727761945)
+        materia_sell_dynamis = client.get_channel(1244017083235176459)
+        await materia_sell_primal.purge()
+        await MateriaSearchByWorld(materia_sell_primal)
 
     @client.event
     async def on_message(message):

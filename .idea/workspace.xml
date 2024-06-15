@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="26351ff8-372d-466d-9b3d-13d6afb1f88b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Materia Gamble Calculator/gamble_calculator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Notes/BugList" beforeDir="false" afterPath="$PROJECT_DIR$/Notes/BugList" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Materia Discord Bot/bot.py" beforeDir="false" afterPath="$PROJECT_DIR$/Materia Discord Bot/bot.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Materia Discord Bot/materiaBuyList.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Materia Discord Bot/materiaBuyList.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Materia Gamble Calculator/gamble_calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Materia Gamble Calculator/gamble_calculator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Material Gamble/materia_gamble.py" beforeDir="false" afterPath="$PROJECT_DIR$/Material Gamble/materia_gamble.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Material Gamble/script_variables.py" beforeDir="false" afterPath="$PROJECT_DIR$/Material Gamble/script_variables.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +27,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ImSeagullible&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ImSeagullible/FFXIV.git&quot;,
+    &quot;accountId&quot;: &quot;cac43a3e-69ff-48c4-81cf-59c7d59f2529&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -31,18 +47,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Get XY Pos.executor": "Run",
-    "Python.gamble_calculator.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.materia_gamble.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Get XY Pos.executor&quot;: &quot;Run&quot;,
+    &quot;Python.gamble_calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.materia_gamble.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Python.gamble_calculator">
     <configuration name="Get XY Pos" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="FFXIV" />
@@ -144,7 +160,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-5a2391486177-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13763.11" />
+        <option value="bundled-python-sdk-5b207ade9991-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.17890.14" />
       </set>
     </attachedChunks>
   </component>

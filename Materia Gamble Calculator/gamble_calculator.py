@@ -21,7 +21,7 @@ vcmd = root.register(validate_input)
 # Dictionary of sections
 sections = {
     "Melee": ["Heavens' Eye", "Savage Aim", "Savage Might"],
-    "Caster": ["Quickarm Materia", "Quicktongue Materia"],
+    "Caster": ["Quickarm", "Quicktongue"],
     "Support": ["Piety", "Battledance"],
     "Crafter": ["Craftsman's Competence", "Craftsman's Cunning", "Craftsman's Command"],
     "Gatherer": ["Gatherer's Guerdon", "Gatherer's Guile", "Gatherer's Grasp"]
@@ -34,10 +34,10 @@ itemIds = {
     "Savage Aim X": 33932,
     "Savage Might IX": 33920,
     "Savage Might X": 33933,
-    "Quickarm Materia IX": 33928,
-    "Quickarm Materia X": 33941,
-    "Quicktongue Materia IX": 33929,
-    "Quicktongue Materia X": 33942,
+    "Quickarm IX": 33928,
+    "Quickarm X": 33941,
+    "Quicktongue IX": 33929,
+    "Quicktongue X": 33942,
     "Piety IX": 33917,
     "Piety X": 33930,
     "Battledance IX": 33921,
@@ -48,12 +48,12 @@ itemIds = {
     "Craftsman's Cunning X": 33939,
     "Craftsman's Command IX": 33927,
     "Craftsman's Command X": 33940,
-    "Gatherer's Guerdon Materia IX": 33922,
-    "Gatherer's Guerdon Materia X": 33935,
-    "Gatherer's Guile Materia IX": 33923,
-    "Gatherer's Guile Materia X": 33936,
-    "Gatherer's Grasp Materia IX": 33924,
-    "Gatherer's Grasp Materia X": 33937
+    "Gatherer's Guerdon IX": 33922,
+    "Gatherer's Guerdon X": 33935,
+    "Gatherer's Guile IX": 33923,
+    "Gatherer's Guile X": 33936,
+    "Gatherer's Grasp IX": 33924,
+    "Gatherer's Grasp X": 33937
 }
 
 # Define the grid layout

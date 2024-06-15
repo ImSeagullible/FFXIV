@@ -1,0 +1,525 @@
+~Piety Materia IX,33917,220,Behemoth
+200,2,False
+217,28,False
+~Battledance Materia IX,33921,220,Behemoth
+200,1,False
+213,2,False
+214,13,False
+215,2,False
+216,1,False
+217,23,False
+~Heavens' Eye Materia IX,33918,220,Excalibur
+199,1,False
+~Battledance Materia IX,33921,220,Excalibur
+200,4,False
+~Quickarm Materia IX,33928,220,Excalibur
+200,3,False
+~Quicktongue Materia IX,33929,220,Excalibur
+198,5,False
+199,1,False
+200,1,False
+213,3,False
+214,10,False
+216,7,False
+217,40,False
+~Piety Materia IX,33917,220,Exodus
+216,3,False
+217,5,False
+~Savage Might Materia IX,33920,220,Exodus
+215,1,False
+217,25,False
+~Battledance Materia IX,33921,220,Exodus
+217,20,False
+~Savage Aim Materia IX,33919,220,Famfrit
+217,1,False
+~Savage Might Materia IX,33920,220,Famfrit
+216,1,False
+217,31,False
+~Battledance Materia IX,33921,220,Famfrit
+207,6,False
+216,1,False
+217,47,False
+~Quickarm Materia IX,33928,220,Famfrit
+217,3,False
+~Quicktongue Materia IX,33929,220,Famfrit
+217,66,False
+~Piety Materia IX,33917,220,Hyperion
+160,4,False
+190,1,False
+200,9,False
+216,1,False
+217,8,False
+220,1,False
+~Savage Aim Materia IX,33919,220,Hyperion
+215,16,False
+217,1,False
+~Savage Might Materia IX,33920,220,Hyperion
+180,1,False
+189,5,False
+190,4,False
+200,3,False
+217,3,False
+~Battledance Materia IX,33921,220,Hyperion
+169,2,False
+170,3,False
+190,2,False
+200,2,False
+216,2,False
+217,9,False
+220,1,False
+~Quickarm Materia IX,33928,220,Hyperion
+117,2,False
+127,5,False
+128,3,False
+129,1,False
+130,1,False
+190,1,False
+200,2,False
+216,2,False
+217,10,False
+~Quicktongue Materia IX,33929,220,Hyperion
+190,2,False
+195,4,False
+199,1,False
+200,2,False
+217,7,False
+220,1,False
+~Piety Materia IX,33917,220,Lamia
+217,4,False
+~Heavens' Eye Materia IX,33918,220,Lamia
+217,3,False
+~Savage Aim Materia IX,33919,220,Lamia
+217,4,False
+~Savage Might Materia IX,33920,220,Lamia
+217,6,False
+~Battledance Materia IX,33921,220,Lamia
+210,1,False
+~Quickarm Materia IX,33928,220,Lamia
+217,5,False
+~Piety Materia IX,33917,220,Leviathan
+217,6,False
+~Battledance Materia IX,33921,220,Leviathan
+210,1,False
+215,13,False
+217,5,False
+~Quicktongue Materia IX,33929,220,Leviathan
+216,2,False
+217,7,False
+~Piety Materia IX,33917,220,Ultros
+150,1,False
+200,1,False
+217,1,False
+~Savage Aim Materia IX,33919,220,Ultros
+150,1,False
+217,109,False
+~Savage Might Materia IX,33920,220,Ultros
+150,2,False
+217,1,False
+~Battledance Materia IX,33921,220,Ultros
+217,3,False
+218,7,False
+~Piety Materia IX,33917,220,Adamantoise
+206,1,False
+207,2,False
+214,2,False
+215,1,False
+217,8,False
+~Heavens' Eye Materia IX,33918,220,Adamantoise
+217,1,False
+~Savage Aim Materia IX,33919,220,Adamantoise
+215,4,False
+216,2,False
+217,21,False
+~Savage Might Materia IX,33920,220,Adamantoise
+215,10,False
+216,3,False
+217,17,False
+~Battledance Materia IX,33921,220,Adamantoise
+196,8,False
+197,1,False
+204,1,False
+206,4,False
+207,1,False
+216,3,False
+217,1,False
+218,2,False
+220,1,False
+~Quicktongue Materia IX,33929,220,Adamantoise
+195,1,False
+196,29,False
+197,2,False
+199,3,False
+200,1,False
+217,10,False
+~Piety Materia IX,33917,220,Cactuar
+150,1,False
+207,2,False
+210,1,False
+217,7,False
+~Heavens' Eye Materia IX,33918,220,Cactuar
+217,1,False
+~Savage Aim Materia IX,33919,220,Cactuar
+200,6,False
+216,1,False
+217,8,False
+~Savage Might Materia IX,33920,220,Cactuar
+149,3,False
+150,3,False
+211,1,False
+212,2,False
+213,2,False
+215,1,False
+217,7,False
+~Battledance Materia IX,33921,220,Cactuar
+215,5,False
+216,3,False
+217,8,False
+~Quickarm Materia IX,33928,220,Cactuar
+215,7,False
+216,3,False
+217,7,False
+~Quicktongue Materia IX,33929,220,Cactuar
+192,7,False
+195,1,False
+200,19,False
+210,5,False
+217,6,False
+220,5,False
+~Battledance Materia IX,33921,220,Faerie
+215,1,False
+217,3,False
+~Quickarm Materia IX,33928,220,Faerie
+217,3,False
+~Piety Materia IX,33917,220,Gilgamesh
+217,9,False
+~Savage Might Materia IX,33920,220,Gilgamesh
+180,6,False
+185,5,False
+~Battledance Materia IX,33921,220,Gilgamesh
+150,5,False
+200,7,False
+~Quickarm Materia IX,33928,220,Gilgamesh
+100,7,False
+110,3,False
+210,1,False
+216,1,False
+217,8,False
+~Quicktongue Materia IX,33929,220,Gilgamesh
+217,2,False
+~Piety Materia IX,33917,220,Gilgamesh
+217,9,False
+~Savage Might Materia IX,33920,220,Gilgamesh
+180,6,False
+185,5,False
+~Battledance Materia IX,33921,220,Gilgamesh
+150,5,False
+200,7,False
+~Quickarm Materia IX,33928,220,Gilgamesh
+100,7,False
+110,3,False
+210,1,False
+216,1,False
+217,8,False
+~Quicktongue Materia IX,33929,220,Gilgamesh
+217,2,False
+~Piety Materia IX,33917,220,Midgardsormr
+99,4,False
+217,8,False
+~Heavens' Eye Materia IX,33918,220,Midgardsormr
+83,1,False
+217,1,False
+~Savage Aim Materia IX,33919,220,Midgardsormr
+217,133,False
+~Savage Might Materia IX,33920,220,Midgardsormr
+210,108,False
+217,3,False
+~Battledance Materia IX,33921,220,Midgardsormr
+200,6,False
+207,1,False
+208,3,False
+209,1,False
+210,1,False
+217,4,False
+~Quickarm Materia IX,33928,220,Midgardsormr
+214,82,False
+215,1,False
+217,6,False
+~Quicktongue Materia IX,33929,220,Midgardsormr
+215,40,False
+216,5,False
+217,8,False
+~Piety Materia IX,33917,220,Sargatanas
+149,1,False
+150,1,False
+198,5,False
+199,1,False
+200,1,False
+216,1,False
+217,2,False
+~Heavens' Eye Materia IX,33918,220,Sargatanas
+199,1,False
+200,4,False
+217,1,False
+~Quickarm Materia IX,33928,220,Sargatanas
+200,3,False
+217,10,False
+~Quicktongue Materia IX,33929,220,Sargatanas
+214,1,False
+215,1,False
+217,8,False
+~Savage Might Materia IX,33920,220,Siren
+217,1,False
+~Battledance Materia IX,33921,220,Siren
+215,2,False
+216,1,False
+217,24,False
+~Quicktongue Materia IX,33929,220,Siren
+216,6,False
+217,16,False
+~Piety Materia IX,33917,220,Balmung
+217,4,False
+~Heavens' Eye Materia IX,33918,220,Balmung
+200,1,False
+216,3,False
+217,4,False
+~Savage Aim Materia IX,33919,220,Balmung
+200,1,False
+~Battledance Materia IX,33921,220,Balmung
+217,6,False
+~Quickarm Materia IX,33928,220,Balmung
+215,3,False
+217,2,False
+~Quicktongue Materia IX,33929,220,Balmung
+217,6,False
+~Piety Materia IX,33917,220,Brynhildr
+207,50,False
+217,28,False
+~Heavens' Eye Materia IX,33918,220,Brynhildr
+215,3,False
+217,4,False
+~Savage Aim Materia IX,33919,220,Brynhildr
+207,99,False
+212,3,False
+217,27,False
+~Savage Might Materia IX,33920,220,Brynhildr
+200,1,False
+217,3,False
+~Battledance Materia IX,33921,220,Brynhildr
+200,11,False
+214,3,False
+215,5,False
+216,3,False
+217,152,False
+~Quickarm Materia IX,33928,220,Brynhildr
+207,99,False
+210,1,False
+215,2,False
+217,14,False
+~Piety Materia IX,33917,220,Coeurl
+200,3,False
+207,2,False
+214,8,False
+215,2,False
+217,18,False
+~Heavens' Eye Materia IX,33918,220,Coeurl
+214,4,False
+215,4,False
+216,1,False
+217,14,False
+~Savage Aim Materia IX,33919,220,Coeurl
+200,3,False
+217,3,False
+220,1,False
+~Savage Might Materia IX,33920,220,Coeurl
+217,4,False
+~Battledance Materia IX,33921,220,Coeurl
+210,6,False
+217,41,False
+~Quickarm Materia IX,33928,220,Coeurl
+207,1,False
+208,2,False
+209,1,False
+210,1,False
+215,6,False
+216,3,False
+217,67,False
+~Piety Materia IX,33917,220,Diabolos
+215,1,False
+217,18,False
+~Heavens' Eye Materia IX,33918,220,Diabolos
+217,1,False
+~Battledance Materia IX,33921,220,Diabolos
+217,2,False
+~Quickarm Materia IX,33928,220,Diabolos
+217,1,False
+~Quicktongue Materia IX,33929,220,Diabolos
+217,1,False
+~Piety Materia IX,33917,220,Goblin
+216,18,False
+217,1,False
+~Heavens' Eye Materia IX,33918,220,Goblin
+217,15,False
+~Savage Aim Materia IX,33919,220,Goblin
+100,1,False
+216,10,False
+217,5,False
+~Battledance Materia IX,33921,220,Goblin
+217,1,False
+~Quickarm Materia IX,33928,220,Goblin
+100,1,False
+217,2,False
+~Piety Materia IX,33917,220,Malboro
+217,170,False
+~Battledance Materia IX,33921,220,Malboro
+217,148,False
+~Quicktongue Materia IX,33929,220,Malboro
+1,61,False
+100,99,False
+~Piety Materia IX,33917,220,Mateus
+216,2,False
+217,3,False
+~Heavens' Eye Materia IX,33918,220,Mateus
+217,4,False
+~Savage Aim Materia IX,33919,220,Mateus
+217,21,False
+~Savage Might Materia IX,33920,220,Mateus
+215,25,False
+216,1,False
+217,2,False
+~Battledance Materia IX,33921,220,Mateus
+195,8,False
+198,2,False
+199,2,False
+200,2,False
+217,4,False
+~Quickarm Materia IX,33928,220,Mateus
+198,2,False
+199,1,False
+200,10,False
+214,1,False
+215,24,False
+216,2,False
+217,2,False
+~Quicktongue Materia IX,33929,220,Mateus
+216,20,False
+217,2,False
+~Piety Materia IX,33917,220,Zalera
+140,11,False
+150,5,False
+180,6,False
+190,5,False
+195,21,False
+200,1,False
+217,16,False
+220,2,False
+~Heavens' Eye Materia IX,33918,220,Zalera
+190,2,False
+200,16,False
+217,3,False
+~Savage Might Materia IX,33920,220,Zalera
+189,1,False
+190,5,False
+199,6,False
+200,3,False
+217,7,False
+~Battledance Materia IX,33921,220,Zalera
+208,1,False
+209,2,False
+210,1,False
+217,41,False
+~Quickarm Materia IX,33928,220,Zalera
+210,6,False
+214,5,False
+215,1,False
+216,1,False
+217,72,False
+~Quicktongue Materia IX,33929,220,Zalera
+212,12,False
+213,9,False
+217,4,False
+~Piety Materia IX,33917,220,Halicarnassus
+213,16,False
+214,1,False
+215,6,False
+217,2,False
+~Savage Aim Materia IX,33919,220,Halicarnassus
+217,1,False
+~Savage Might Materia IX,33920,220,Halicarnassus
+217,2,False
+~Battledance Materia IX,33921,220,Halicarnassus
+214,2,False
+215,6,False
+217,2,False
+~Quicktongue Materia IX,33929,220,Halicarnassus
+217,1,False
+~Piety Materia IX,33917,220,Maduin
+99,1,False
+217,11,False
+~Heavens' Eye Materia IX,33918,220,Maduin
+217,28,False
+220,1,False
+~Savage Aim Materia IX,33919,220,Maduin
+100,2,False
+~Savage Might Materia IX,33920,220,Maduin
+200,1,False
+217,31,False
+220,2,False
+~Quicktongue Materia IX,33929,220,Maduin
+217,14,False
+~Piety Materia IX,33917,220,Marilith
+199,2,False
+217,4,False
+~Heavens' Eye Materia IX,33918,220,Marilith
+199,1,False
+209,3,False
+210,1,False
+216,2,False
+217,27,False
+~Savage Aim Materia IX,33919,220,Marilith
+92,2,False
+99,1,False
+100,1,False
+149,2,False
+150,2,False
+217,14,False
+~Savage Might Materia IX,33920,220,Marilith
+185,2,False
+215,1,False
+217,1,False
+219,26,False
+220,2,False
+~Battledance Materia IX,33921,220,Marilith
+180,1,False
+199,1,False
+210,10,False
+213,1,False
+215,21,False
+217,12,False
+~Quickarm Materia IX,33928,220,Marilith
+185,1,False
+216,1,False
+217,6,False
+~Quicktongue Materia IX,33929,220,Marilith
+175,1,False
+185,1,False
+200,3,False
+217,2,False
+218,3,False
+219,22,False
+220,16,False
+~Piety Materia IX,33917,220,Seraph
+217,10,False
+~Heavens' Eye Materia IX,33918,220,Seraph
+217,7,False
+~Battledance Materia IX,33921,220,Seraph
+213,1,False
+214,1,False
+216,1,False
+217,4,False
+~Quickarm Materia IX,33928,220,Seraph
+117,3,False
+207,99,False
+208,11,False
+209,4,False
+210,3,False
+217,11,False
